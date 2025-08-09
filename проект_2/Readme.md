@@ -1,8 +1,7 @@
 ## Исследование эффективности работы сервиса Яндекс Афиша
 
-[HTML](https://github.com/Olga-Agafonova-21/Practicum_project/blob/main/project_1/Исследование%20эффективности%20работы%20сервиса%20Яндекс%20Афиша.html)
-[ipynb](https://github.com/Olga-Agafonova-21/Practicum_project/blob/main/project_1/Исследование%20эффективности%20работы%20сервиса%20Яндекс%20Афиша.ipynb)
-[Дашборд](https://datalens.yandex/xm2bisdtunysi)
+[HTML](https://github.com/Olga-Agafonova-21/Practicum_project/blob/main/проект_2/Разработка%20AB-тестирования%20и%20анализ%20результатов.html)
+[ipynb]()
 
 ---
 
