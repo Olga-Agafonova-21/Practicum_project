@@ -1,7 +1,7 @@
 ## Ключевые бизнес-метрики в Саранске (май — июнь 2021)
 
 [Дашборд](https://datalens.yandex/hwizfxbb7bvy3)
-[Аналитическая записка]()
+[Аналитическая записка](https://github.com/Olga-Agafonova-21/Practicum_project/blob/main/проект_7/Аналитическая%20записка.docx)
 
 ---
 
