@@ -1,6 +1,6 @@
 ## Исследование данных для развития игры "Секреты Темнолесья"
 
-[HTML]()
+[HTML](https://github.com/Olga-Agafonova-21/Practicum_project/blob/main/проект_5/Исследование%20данных%20для%20развития%20видеоигры.html)
 [ipynb]()
 
 ---
