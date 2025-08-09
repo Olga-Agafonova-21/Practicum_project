@@ -1,3 +1,27 @@
+## Исследование эффективности работы сервиса Яндекс Афиша
+
 [HTML](https://github.com/Olga-Agafonova-21/Practicum_project/blob/main/project_1/Исследование%20эффективности%20работы%20сервиса%20Яндекс%20Афиша.html)
 [ipynb](https://github.com/Olga-Agafonova-21/Practicum_project/blob/main/project_1/Исследование%20эффективности%20работы%20сервиса%20Яндекс%20Афиша.ipynb)
 [Дашборд](https://datalens.yandex/xm2bisdtunysi)
+
+### Описание проекта
+
+Требуется провести исследовательский анализ данных сервиса Яндекс Афиша в Python с целью выявления инсайтов об изменении пользовательских предпочтений и популярности событий осенью 2024 года, а также проверить гипотезы о разнице в поведении пользователей с мобильными и стационарными устройствами.
+---
+
+### Навыки и инструменты
+
+* **pandas**
+* **matplotlib**
+* **matplotlib_venn**
+* **seaborn**
+* **numpy**
+* **scipy**
+* scipy.**stats**
+* statsmodels.stats.proportion.**proportions_ztest**
+* statsmodels.stats.power.**NormalIndPower**
+* statsmodels.stats.proportion.**proportion_effectsize**
+* **math**
+* **warnings**
+
+
