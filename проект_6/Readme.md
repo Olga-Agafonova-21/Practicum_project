@@ -1,7 +1,7 @@
 ## Исследование стартапов
 
 [HTML](https://github.com/Olga-Agafonova-21/Practicum_project/blob/main/проект_6/Исследование%20стартапов.html)
-[ipynb]()
+[ipynb](https://github.com/Olga-Agafonova-21/Practicum_project/blob/main/проект_6/Исследование%20стартапов.ipynb)
 
 ---
 
