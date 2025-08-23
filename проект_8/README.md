@@ -1,7 +1,7 @@
 ## Анализ данных для агентства недвижимости
 
-[Аналитическая записка и SQL-файл](https://disk.yandex.ru/d/tZmyUiZFxHUCRQ)
-
+[Аналитическая записка](https://disk.yandex.ru/d/tZmyUiZFxHUCRQ)
+[SQL-файл](https://disk.yandex.ru/d/tZmyUiZFxHUCRQ)
 ---
 
 ### Описание проекта
