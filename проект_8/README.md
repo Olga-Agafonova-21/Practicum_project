@@ -1,5 +1,6 @@
 ## Анализ данных для агентства недвижимости
 
+
 [Аналитическая записка](https://disk.yandex.ru/d/tZmyUiZFxHUCRQ)
 [SQL-файл](https://github.com/Olga-Agafonova-21/Practicum_project/blob/main/проект_8/Проект_Агентство_недвижимости(DBeaver-файл).sql)
 ---
